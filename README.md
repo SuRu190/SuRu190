@@ -41,7 +41,8 @@ My long-term dream is to dive into cybersecurity and contribute to digital safet
 
 > I’m currently working on small JavaScript-based projects and improving them with better design, structure, and functionality.
 
-- Background Color Changer [🔗 View Repo](https://github.com/SuRu190/bg-color-changer)  
+- Background Color Changer [🔗 View Repo](https://github.com/SuRu190/bg-color-changer)
+- Responsive Landing Page [🔗 View Repo](https://github.com/SuRu190/Responsive-Landing-Page)
 - More coming soon... stay tuned!
 
 ---
