@@ -1,46 +1,58 @@
 <h1 align="center">Hi 👋, I'm Suresh Sharma</h1>
-<h3 align="center">Aspiring Frontend Developer | B.Tech CSE '25</h3>
+<h3 align="center">A passionate Frontend Developer and CSE Graduate (2025)</h3>
 
 ---
 
-### 🌱 Currently Learning
+### 👨‍💻 About Me
 
-- Frontend Development (HTML, CSS, JavaScript)
-- Building creative web projects
-- Responsive Web Design
-- Git & GitHub
+- 🌱 I’m currently learning **JavaScript**
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/suru190)
+- 📫 Reach me at: **sureshsharma0297@gmail.com**
 
 ---
 
-### 🚀 Projects
+### 🚀 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+### 📂 My Projects with Live Demo
 
 | Project Name | Description | Live Demo |
-|--------------|-------------|-----------|
-| **Responsive Landing Page** | A clean and responsive webpage clone. | [Live Demo](https://suru190.github.io/Responsive-Landing-Page/) |
-| **Background Color Changer** | Click the button to change the background color randomly. | [Live Demo](https://suru190.github.io/BG-Color-Changer/) |
-| **To-Do List App** | Add, complete or delete tasks easily. | [Live Demo](https://suru190.github.io/To-Do-List/) |
-
----
-
-### 💻 Tech Stack
-
-- HTML5
-- CSS3
-- JavaScript (Basics)
-- Git & GitHub
-- Visual Studio Code
+|--------------|-------------|------------|
+| **BG-Color-Changer** | Click to change background color | [Live Demo](https://suru190.github.io/BG-Color-Changer/) |
+| **Responsive-Landing-Page** | Fully responsive landing page using HTML, CSS | [Live Demo](https://suru190.github.io/Responsive-Landing-Page/) |
+| **To-Do-List** | Add, complete, and remove tasks | [Live Demo](https://suru190.github.io/To-Do-List/) |
 
 ---
 
 ### 📊 GitHub Stats
 
-![Suresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=suru190&show_icons=true&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=suru190&show_icons=true&locale=en&theme=tokyonight" alt="suru190" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suru190&layout=compact&theme=tokyonight" alt="suru190" />
+</p>
+
+---
+
+### 📈 Profile Views
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=suru190&label=Profile%20views&color=0e75b6&style=flat" alt="suru190" />
+</p>
 
 ---
 
 ### 🔗 Let's Connect
 
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](sureshsharma0297@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=suru190&color=blue)
-
----
+<p align="left">
+  <a href="https://github.com/suru190" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:sureshsharma0297@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
