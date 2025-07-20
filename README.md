@@ -1,57 +1,46 @@
-<h1 align="center">Hi, I'm Suresh Sharma 👋</h1>
-<p align="center">Aspiring Frontend Developer | Future Cybersecurity Enthusiast</p>
+<h1 align="center">Hi 👋, I'm Suresh Sharma</h1>
+<h3 align="center">Aspiring Frontend Developer | B.Tech CSE '25</h3>
 
 ---
 
-## 🚀 About Me
+### 🌱 Currently Learning
 
-I'm a B.Tech CSE graduate who is passionate about technology and solving real-world problems through code.  
-Currently, I'm focused on becoming a frontend developer and building hands-on experience with HTML, CSS, and JavaScript.  
-My long-term dream is to dive into cybersecurity and contribute to digital safety.
-
----
-
-## 🔧 Skills So Far
-
-- ✅ HTML5 & CSS3  
-- ✅ Responsive Web Design (basics)  
-- ✅ JavaScript (DOM, Events, Functions, Loops)  
-- ✅ Git & GitHub (in progress)  
+- Frontend Development (HTML, CSS, JavaScript)
+- Building creative web projects
+- Responsive Web Design
+- Git & GitHub
 
 ---
 
-## 📚 Currently Learning
+### 🚀 Projects
 
-- JavaScript (DOM Manipulation, Events, Projects)  
-- Git & GitHub (repo management, collaboration)  
-- Responsive Design (Flexbox, Media Queries)  
-- Communication & Interview Skills  
-
----
-
-## 🎯 Future Goals
-
-- Get my first job as a frontend developer  
-- Build full responsive websites and React-based apps  
-- Start learning cybersecurity while working in the tech industry  
+| Project Name | Description | Live Demo |
+|--------------|-------------|-----------|
+| **Responsive Landing Page** | A clean and responsive webpage clone. | [Live Demo](https://suru190.github.io/Responsive-Landing-Page/) |
+| **Background Color Changer** | Click the button to change the background color randomly. | [Live Demo](https://suru190.github.io/BG-Color-Changer/) |
+| **To-Do List App** | Add, complete or delete tasks easily. | [Live Demo](https://suru190.github.io/To-Do-List/) |
 
 ---
 
-## 💻 Projects
+### 💻 Tech Stack
 
-> I’m currently working on small JavaScript-based projects and improving them with better design, structure, and functionality.
-
-- Background Color Changer [🔗 View Repo](https://github.com/SuRu190/bg-color-changer)
-- Responsive Landing Page [🔗 View Repo](https://github.com/SuRu190/Responsive-Landing-Page)
-- More coming soon... stay tuned!
-
----
-
-## 📫 Contact Me
-
-- 📧 Email: sureshsharma0297@gmail.com
-- 🔗 GitHub: [github.com/SuRu190](https://github.com/SuRu190)
+- HTML5
+- CSS3
+- JavaScript (Basics)
+- Git & GitHub
+- Visual Studio Code
 
 ---
 
-<p align="center">Thanks for visiting! 🚀</p>
+### 📊 GitHub Stats
+
+![Suresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=suru190&show_icons=true&theme=radical)
+
+---
+
+### 🔗 Let's Connect
+
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](sureshsharma0297@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=suru190&color=blue)
+
+---
