@@ -6,7 +6,7 @@
 ### 👨‍💻 About Me
 
 - 🌱 I’m currently learning **JavaScript**
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/suru190)
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/SuRu190?tab=repositories)
 - 📫 Reach me at: **sureshsharma0297@gmail.com**
 
 ---
