@@ -25,7 +25,7 @@
 
 ### 📂 My Projects with Live Demo
 
-| Project Name | Description | Repository | Live Demo |
+| Project Name | Description | Live Demo |
 |--------------|-------------|------------|
 | **BG-Color-Changer** | Click to change background color | [Live Demo](https://suru190.github.io/BG-Color-Changer/) |
 | **Responsive-Landing-Page** | Fully responsive landing page using HTML, CSS | [Live Demo](https://suru190.github.io/Responsive-Landing-Page/) |
