@@ -26,7 +26,7 @@
 ### 📂 My Projects with Live Demo
 
 | Project Name | Description | Repository | Live Demo |
-|--------------|-------------|------------|
+|--------------|-------------|------------|------------|
 | **BG-Color-Changer** | Click to change background color | [Repository](https://github.com/SuRu190/BG-Color-Changer/) | [Live Demo](https://suru190.github.io/BG-Color-Changer/) |
 | **Responsive-Landing-Page** | Fully responsive landing page using HTML, CSS| [Repository](https://github.com/SuRu190/Responsive-Landing-Page/) | [Live Demo](https://suru190.github.io/Responsive-Landing-Page/) |
 | **To-Do-List** | Add, complete, and remove tasks | [Repository](https://github.com/SuRu190/To-Do-List/) | [Live Demo](https://suru190.github.io/To-Do-List/) |
