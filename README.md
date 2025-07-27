@@ -27,7 +27,7 @@
 
 | Project Name | Description | Live Demo |
 |--------------|-------------|------------|
-| **BG-Color-Changer** | Click to change background color | [Live Demo](https://suru190.github.io/BG-Color-Changer/) |
+| **BG-Color-Changer** | Click to change background color | [Live Demo](https://suru190.github.io/Random-Color-Changer/) |
 | **Responsive-Landing-Page** | Fully responsive landing page using HTML, CSS | [Live Demo](https://suru190.github.io/Responsive-Landing-Page/) |
 | **To-Do-List** | Add, complete, and remove tasks | [Live Demo](https://suru190.github.io/To-Do-List/) |
 | **Weather-App** | A responsive weather app using OpenWeatherMap API (HTML, CSS, JS) | [Live Demo](https://suru190.github.io/Weather-App/) |
