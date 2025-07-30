@@ -31,7 +31,7 @@
 | **Responsive-Landing-Page** | Fully responsive landing page using HTML, CSS | [Live Demo](https://suru190.github.io/Responsive-Landing-Page/) |
 | **To-Do-List** | Add, complete, and remove tasks | [Live Demo](https://suru190.github.io/To-Do-List/) |
 | **Weather-App** | A responsive weather app using OpenWeatherMap API (HTML, CSS, JS) | [Live Demo](https://suru190.github.io/Weather-App/) |
-| **JavaScript-DOM_Practice** | A collection of beginner-friendly DOM manipulation tasks to strengthen core JavaScript skills. | [JavaScript DOM Tasks Live](https://suru190.github.io/JavaScript-Dom-Practice/) |
+| **JavaScript-DOM_Practice** | A collection of beginner-friendly DOM manipulation tasks to strengthen core JavaScript skills. | [JavaScript DOM Tasks Live](https://github.com/SuRu190/JavaScript-Dom-Practice/) |
 
 ---
 
