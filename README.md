@@ -47,7 +47,7 @@
 ### 📈 Profile Views
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=suru190&label=Profile%20views&color=0e75b6&style=flat" alt="suru190" />
+  <img src="https://komarev.com/ghpvc/?username=suru190&color=blue" alt="suru190 profile views" />
 </p>
 
 ---
