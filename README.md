@@ -14,9 +14,8 @@
 ---
 
 ### 📅 Current Focus
-- Building advanced JavaScript projects
-- Practicing problem-solving on LeetCode
-- Learning **React.js** for modern web development
+- Building JavaScript projects
+- Going to start **React.js** for modern web development
 
 ---
 
