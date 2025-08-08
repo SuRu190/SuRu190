@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 Currently mastering **JavaScript** and diving into **React.js**
+- 🌱 Currently mastering ***JavaScript*** and diving into ***React.js***
 - 🚀 Love building **interactive, responsive, and user-friendly** web applications
 - 👨‍💻 Check out all my projects on [GitHub](https://github.com/SuRu190?tab=repositories)
 - 📫 Reach me at: **sureshsharma0297@gmail.com**
