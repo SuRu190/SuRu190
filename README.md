@@ -15,7 +15,7 @@
 
 ### 📅 Current Focus
 - Building JavaScript projects
-- Going to start **React.js** for modern web development
+- Going to start ***React.js*** for modern web development
 
 ---
 
