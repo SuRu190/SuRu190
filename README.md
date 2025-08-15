@@ -9,7 +9,7 @@
 - 🚀 Love building **interactive, responsive, and user-friendly** web applications
 - 👨‍💻 Check out all my projects on **[GitHub](https://github.com/SuRu190?tab=repositories)**
 - 📫 Reach me at: **sureshsharma0297@gmail.com**
-- 💡 Fun fact: I debug faster when I’m listening to Lo-fi beats ☕🎧
+- 💡 Fun fact: I Code faster when I’m listening to Lo-fi beats ☕🎧
 
 ---
 
