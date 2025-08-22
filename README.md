@@ -36,12 +36,12 @@
 
 | Project Name | Description | Live Demo |
 |--------------|-------------|-----------|
+| **JavaScript Basics Practice** | Beginner-friendly JavaScript programs with simple logic and clear examples. | [View Repo](https://github.com/SuRu190/JavaScript-Basics-Practice/) |
+| **JavaScript DOM Practice** | 17 beginner-friendly DOM manipulation tasks to strengthen core JavaScript skills. | [View Repo](https://github.com/SuRu190/JavaScript-Dom-Practice/) |
 | **Random Color Generator** | Generates a random background color with each click and displays its RGB value dynamically. | [Live Demo](https://suru190.github.io/Random-Color-Generator/) |
 | **Responsive Landing Page** | A modern, mobile-friendly landing page built with HTML & CSS. | [Live Demo](https://suru190.github.io/Responsive-Landing-Page/) |
 | **To-Do List** | Add, complete, and remove tasks with a clean interface and local storage support. | [Live Demo](https://suru190.github.io/To-Do-List/) |
 | **Weather App** | A responsive weather app fetching real-time data from OpenWeatherMap API. | [Live Demo](https://suru190.github.io/Weather-App/) |
-| **JavaScript Basics Practice** | Beginner-friendly JavaScript programs with simple logic and clear examples. | [View Repo](https://github.com/SuRu190/JavaScript-Basics-Practice/) |
-| **JavaScript DOM Practice** | 17 beginner-friendly DOM manipulation tasks to strengthen core JavaScript skills. | [View Repo](https://github.com/SuRu190/JavaScript-Dom-Practice/) |
 
 ---
 
