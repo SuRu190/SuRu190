@@ -34,7 +34,7 @@
 
 ### 📂 My Projects with Live Demo
 
-| **Project Name** | **Description** | **Live Demo** |
+| *Project Name* | *Description* | *Live Demo* |
 |--------------|-------------|-----------|
 | **JavaScript Basics Practice** | Beginner-friendly JavaScript programs with simple logic and clear examples. | [View Repo](https://github.com/SuRu190/JavaScript-Basics-Practice/) |
 | **JavaScript DOM Practice** | 17 beginner-friendly DOM manipulation tasks to strengthen core JavaScript skills. | [View Repo](https://github.com/SuRu190/JavaScript-Dom-Practice/) |
