@@ -37,6 +37,7 @@
 | *Project Name* | *Description* | *Live Demo* |
 |--------------|-------------|-----------|
 | **JavaScript Basics Practice** | Beginner-friendly JavaScript programs with simple logic and clear examples. | [View Repo](https://github.com/SuRu190/JavaScript-Basics-Practice/) |
+| **JavaScript Advanced Practice** | A 10-day advanced JavaScript practice challenge with 200+ questions and answers. | [View Repo](https://github.com/SuRu190/JavaScript-Advanced-Practice/) |
 | **JavaScript DOM Practice** | 17 beginner-friendly DOM manipulation tasks to strengthen core JavaScript skills. | [View Repo](https://github.com/SuRu190/JavaScript-Dom-Practice/) |
 | **Random Color Generator** | Generates a random background color with each click and displays its RGB value dynamically. | [Live Demo](https://suru190.github.io/Random-Color-Generator/) |
 | **Responsive Landing Page** | A modern, mobile-friendly landing page built with HTML & CSS. | [Live Demo](https://suru190.github.io/Responsive-Landing-Page/) |
