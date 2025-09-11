@@ -44,7 +44,7 @@
 | **To-Do List** | Add, complete, and remove tasks with a clean interface and local storage support. | [Live Demo](https://suru190.github.io/To-Do-List/) |
 | **Weather App** | A responsive weather app fetching real-time data from OpenWeatherMap API. | [Live Demo](https://suru190.github.io/Weather-App/) |
 
----
+--- 
 
 ### 📊 GitHub Stats
 
